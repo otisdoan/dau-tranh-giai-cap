@@ -3,7 +3,7 @@
     "id": "class-definition",
     "slug": "giai-cap",
     "title": "Giai cấp",
-    "status": "done",
+    "status": "Chưa học",
     "sections": [
       {
         "heading": "Định nghĩa giai cấp",
@@ -37,7 +37,7 @@
     "id": "class-origin",
     "slug": "nguon-goc-giai-cap",
     "title": "Nguồn gốc giai cấp",
-    "status": "in-progress",
+    "status": "Chưa học",
     "sections": [
       {
         "heading": "Nguồn gốc",
@@ -64,7 +64,7 @@
     "id": "social-structure",
     "slug": "ket-cau-xa-hoi-giai-cap",
     "title": "Kết cấu xã hội – giai cấp",
-    "status": "not-started",
+    "status": "Chưa học",
     "sections": [
       {
         "heading": "Khái niệm",
@@ -88,7 +88,7 @@
     "id": "class-struggle",
     "slug": "dau-tranh-giai-cap",
     "title": "Đấu tranh giai cấp",
-    "status": "not-started",
+    "status": "Chưa học",
     "sections": [
       {
         "heading": "Định nghĩa và tính tất yếu",
@@ -119,7 +119,7 @@
     "id": "proletariat-struggle",
     "slug": "dau-tranh-vo-san",
     "title": "Đấu tranh của giai cấp vô sản",
-    "status": "not-started",
+    "status": "Chưa học",
     "sections": [
       {
         "heading": "Trước khi giành chính quyền",
@@ -143,7 +143,7 @@
     "id": "transition-vietnam",
     "slug": "thoi-ky-qua-do-viet-nam",
     "title": "Đặc điểm đấu tranh giai cấp thời kỳ quá độ ở Việt Nam",
-    "status": "not-started",
+    "status": "Chưa học",
     "sections": [
       {
         "heading": "Tính tất yếu",
