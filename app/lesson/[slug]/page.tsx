@@ -29,7 +29,7 @@ function LessonMenu({ current }: { current: string }) {
               aria-current={item.slug === current ? "page" : undefined}
             >
               <div>
-                <div className="pill" style={{ marginBottom: 6 }}>
+                <div className="pill " style={{ marginBottom: 6 }}>
                   {item.title}
                 </div>
                 <div className="muted">
@@ -45,7 +45,6 @@ function LessonMenu({ current }: { current: string }) {
                   {status.label}
                 </div>
               </div>
-              <span aria-hidden>→</span>
             </Link>
           );
         })}
