@@ -45,9 +45,7 @@ function SiteHeader() {
             </Link>
           ))}
         </nav>
-        <Link href="/auth" className="btn btn-primary btn-sm">
-          Đăng nhập
-        </Link>
+        {/* Đã bỏ nút đăng nhập theo yêu cầu */}
       </div>
     </header>
   );

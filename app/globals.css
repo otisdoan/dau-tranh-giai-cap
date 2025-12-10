@@ -547,3 +547,82 @@ a {
     padding: 40px 0;
   }
 }
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0 20px;
+  }
+  .page-content {
+    padding: 48px 0 32px;
+  }
+  .section {
+    padding: 36px 0;
+  }
+  .header-inner {
+    gap: 10px;
+  }
+  .nav-link {
+    padding: 8px 10px;
+  }
+  .hero {
+    padding: 40px 28px;
+  }
+  .hero h1 {
+    font-size: 30px;
+  }
+  .hero p {
+    font-size: 16px;
+  }
+  .section-title {
+    font-size: 24px;
+  }
+  .card {
+    padding: 16px 16px;
+  }
+  .grid-2 {
+    grid-template-columns: 1fr;
+  }
+  .layout-two-col .card.sticky {
+    position: relative;
+    top: unset;
+  }
+}
+
+@media (max-width: 540px) {
+  .hero {
+    padding: 32px 22px;
+    border-radius: 14px;
+  }
+  .hero h1 {
+    font-size: 24px;
+  }
+  .hero p {
+    font-size: 15px;
+  }
+  .btn {
+    width: 100%;
+    justify-content: center;
+  }
+  .section-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .nav {
+    width: 100%;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+  .lesson-item {
+    align-items: flex-start;
+  }
+  .flashcard-face {
+    min-height: 200px;
+  }
+  .container {
+    padding: 0 16px;
+  }
+}

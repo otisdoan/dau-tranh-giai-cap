@@ -96,7 +96,7 @@ export default function MindmapPage() {
         </Link>
       </div>
 
-      <div className="card" style={{ height: 540 }}>
+      <div className="card" style={{ height: 540, minHeight: 380 }}>
         <ReactFlow
           nodes={nodes}
           edges={edges}
