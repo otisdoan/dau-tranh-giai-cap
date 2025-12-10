@@ -1,4 +1,7 @@
+"use client";
+
 import Link from "next/link";
+import { useEffect, useState } from "react";
 import lessons from "@/data/lessons.json";
 
 const roadmap = [
@@ -8,12 +11,39 @@ const roadmap = [
   "Đấu tranh vô sản & thời kỳ quá độ",
 ];
 
+const bannerImages = [
+  "/1.jpg",
+  "/2.jpg",
+  "/3.jpeg",
+  "/giai%20c%E1%BA%A5p%2C%20ngu%E1%BB%93n%20g%E1%BB%91c.jpg",
+];
+
 export default function Home() {
   const featuredLessons = lessons.slice(0, 4);
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentImageIndex((prev) => (prev + 1) % bannerImages.length);
+    }, 3000); // Chuyển ảnh mỗi 4 giây
+
+    return () => clearInterval(interval);
+  }, []);
 
   return (
     <>
       <section className="hero-banner fade-in">
+        <div className="hero-banner-carousel">
+          {bannerImages.map((image, index) => (
+            <div
+              key={image}
+              className={`hero-banner-slide ${
+                index === currentImageIndex ? "active" : ""
+              }`}
+              style={{ backgroundImage: `url(${image})` }}
+            />
+          ))}
+        </div>
         <div className="hero-inner">
           <h1>TRIẾT HỌC MÁC – LÊNIN: GIAI CẤP VÀ ĐẤU TRANH GIAI CẤP</h1>
           <p>
