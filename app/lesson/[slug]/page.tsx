@@ -55,6 +55,42 @@ function LessonMenu({ current }: { current: string }) {
   );
 }
 
+function LessonNavigation({ currentSlug }: { currentSlug: string }) {
+  const currentIndex = lessons.findIndex((l) => l.slug === currentSlug);
+  const prevLesson = currentIndex > 0 ? lessons[currentIndex - 1] : null;
+  const nextLesson =
+    currentIndex < lessons.length - 1 ? lessons[currentIndex + 1] : null;
+
+  return (
+    <div className="lesson-navigation">
+      <div className="nav-buttons">
+        {prevLesson ? (
+          <Link
+            href={`/lesson/${prevLesson.slug}`}
+            className="nav-btn prev-btn"
+          >
+            <div className="nav-label">← Bài trước</div>
+            <div className="nav-title">{prevLesson.title}</div>
+          </Link>
+        ) : (
+          <div className="nav-btn-placeholder" />
+        )}
+        {nextLesson ? (
+          <Link
+            href={`/lesson/${nextLesson.slug}`}
+            className="nav-btn next-btn"
+          >
+            <div className="nav-label">Bài tiếp theo →</div>
+            <div className="nav-title">{nextLesson.title} </div>
+          </Link>
+        ) : (
+          <div className="nav-btn-placeholder" />
+        )}
+      </div>
+    </div>
+  );
+}
+
 function LessonContent({ lesson }: { lesson: Lesson }) {
   return (
     <div className="lesson-content">
@@ -190,6 +226,8 @@ function LessonContent({ lesson }: { lesson: Lesson }) {
           </div>
         );
       })}
+
+      <LessonNavigation currentSlug={lesson.slug} />
 
       <div className="card" style={{ marginTop: 32 }}>
         <div className="section-header" style={{ marginBottom: 12 }}>
