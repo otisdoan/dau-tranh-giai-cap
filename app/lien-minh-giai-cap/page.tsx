@@ -79,7 +79,6 @@ export default function LienMinhGiaiCap() {
         </div>
         <div className="container">
           <div className="lien-minh-hero-content fade-in">
-            <div className="lien-minh-badge">THUYẾT TRÌNH</div>
             <h1 className="lien-minh-title">
               Liên minh giai cấp trong thời bình
               <br />

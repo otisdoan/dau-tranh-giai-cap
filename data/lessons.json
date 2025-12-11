@@ -7,7 +7,7 @@
     "sections": [
       {
         "heading": "Định nghĩa giai cấp",
-        "body": "Trong tác phẩm 'Sáng kiến vĩ đại', V.I.Lênin định nghĩa:\n\n\"Người ta gọi giai cấp, những tập đoàn người to lớn gồm những người khác nhau về địa vị của họ trong một hệ sản xuất xã hội nhất định… tập đoàn này có thể chiếm đoạt lao động của tập đoàn khác do địa vị khác nhau trong một chế độ kinh tế - xã hội nhất định.\"",
+        "body": "Trong tác phẩm 'Sáng kiến vĩ đại', V.I.Lênin định nghĩa:\n\n\"Người ta gọi giai cấp, những tập đoàn người to lớn gồm những người khác nhau về địa vị của họ trong một hệ sản xuất xã hội nhất định trong lịch sử, khác nhau về quan hệ của họ (thường thì các quan hệ này được pháp luật quy định và thừa nhận) đối với tư liệu sản xuất, về vai trò của họ trong tổ chức lao động xã hội và như vậy khác nhau về cách thức hưởng thụ và về phần của cải xã hội ít hoặc nhiều mà họ được hưởng. Giai cấp là những tập đoàn người, mà tập đoàn này có thể chiếm đoạt lao động của tập đoàn khác, do chỗ tập đoàn đó có địa vị khác nhau trong một chế độ kinh tế - xã hội nhất định\"",
         "highlight": true
       },
       {
@@ -69,7 +69,7 @@
     "sections": [
       {
         "heading": "Nguồn gốc của giai cấp",
-        "body": "Giai cấp xuất hiện do sự phát triển của lực lượng sản xuất và chế độ tư hữu về tư liệu sản xuất:"
+        "body": "Giai cấp xuất hiện do sự phát triển của lực lượng sản xuất và chế độ tư hữu về tư liệu sản xuất"
       },
       {
         "heading": "Nguồn gốc sâu xa",
@@ -116,8 +116,8 @@
       {
         "heading": "Ví dụ minh họa",
         "body": "Khi một thủ lĩnh chiếm đoạt chiến lợi phẩm sau mỗi cuộc chiến, tài sản tập trung vào một nhóm → hình thành tầng lớp thống trị.",
-        "hasImage": true,
-        "image": "/4.jpeg",
+        "hasImage": false,
+        "image": "",
         "imageCaption": "Hình chiến tranh cổ đại và phân chia chiến lợi phẩm"
       }
     ]
@@ -279,7 +279,7 @@
         "heading": "Ví dụ thực tế",
         "body": "Phong trào đình công Chicago 1886: Công nhân đòi làm việc 8 giờ/ngày, thay vì 12–16 giờ. Hơn 350.000 công nhân ở 11.000 nhà máy trên toàn nước Mỹ tham gia.\n\nKết quả: Đây trở thành cơ sở để quốc tế công nhận ngày 1/5 – Quốc tế Lao động.",
         "hasImage": true,
-        "image": "/1.jpg",
+        "image": "",
         "imageCaption": "Công nhân diễu hành cầm biểu ngữ '8 hours work'"
       },
       {
@@ -302,7 +302,7 @@
         "heading": "Ví dụ",
         "body": "Phong trào truyền bá Chủ nghĩa Mác ở Đức cuối thế kỷ XIX:\n\n• Số lượng tờ báo công nhân tăng từ 1 tờ (1860) lên 67 tờ (1890)\n\n• Đảng Dân chủ Xã hội Đức (SPD) phát triển từ 41.000 đảng viên lên 1,08 triệu (năm 1914)\n\n→ Cho thấy sức mạnh của tuyên truyền – tư tưởng.",
         "hasImage": true,
-        "image": "/3.jpeg",
+        "image": "",
         "imageCaption": "Trang báo 'Vorwärts' của SPD, hình ảnh nhóm công nhân đọc báo"
       },
       {
@@ -330,7 +330,7 @@
         "heading": "Ví dụ thực tế: Nga sau 1917",
         "body": "Ở Nga sau 1917:\n\n• Dù giành chính quyền, 80% doanh nghiệp lớn vẫn nằm trong tay tư sản trong 6 tháng đầu\n\n• Các nhóm phản cách mạng như Bạch vệ có lúc kiểm soát 60% lãnh thổ năm 1919\n\n→ Chứng minh tư sản tuy mất chính quyền nhưng chưa mất kinh tế – tư tưởng.",
         "hasImage": true,
-        "image": "/1.jpg",
+        "image": "",
         "imageCaption": "Bản đồ phân chia lực lượng Hồng quân – Bạch vệ (1919)"
       },
       {
@@ -346,7 +346,7 @@
         "heading": "Ví dụ thực tế: Việt Nam",
         "body": "GDP Việt Nam tăng từ 14 tỷ USD (1985) → 430 tỷ USD (2023) nhờ Đổi mới 1986.\n\nXuất khẩu tăng từ 0,8 tỷ USD → 372 tỷ USD (2023).",
         "hasImage": true,
-        "image": "/2.jpg",
+        "image": "",
         "imageCaption": "Đồ thị tăng trưởng GDP Việt Nam 1986–2023"
       },
       {
@@ -357,7 +357,7 @@
         "heading": "Ví dụ thực tế: Việt Nam",
         "body": "Việt Nam ban hành Hiến pháp 1992, 2001, 2013 để hoàn thiện Nhà nước pháp quyền XHCN.\n\nTỷ lệ đại biểu Quốc hội ngoài Đảng: khoảng 8–10% mỗi khóa → mở rộng dân chủ.",
         "hasImage": true,
-        "image": "/3.jpeg",
+        "image": "/quoc-hoi.jpg",
         "imageCaption": "Hình Quốc hội Việt Nam họp"
       },
       {
@@ -368,7 +368,7 @@
         "heading": "Ví dụ thực tế: Việt Nam",
         "body": "Bộ Thông tin & Truyền thông xử lý hơn 11.000 tin giả trên mạng năm 2023.\n\nHơn 23 triệu học sinh học môn Giáo dục công dân và Lịch sử – xây dựng nền tảng tư tưởng.",
         "hasImage": true,
-        "image": "/4.jpeg",
+        "image": "/fake-new.jpg",
         "imageCaption": "Infographic tin giả – fake news"
       },
       {
@@ -379,7 +379,7 @@
         "heading": "Ví dụ thực tế: Việt Nam",
         "body": "Hơn 5.000 tài khoản mạng được xác định có hoạt động chống phá mỗi năm (theo báo cáo Bộ Công an).\n\nCác tổ chức phản động tài trợ trung bình 10–15 triệu USD/năm cho hoạt động chống xuyên tạc Việt Nam.",
         "hasImage": true,
-        "image": "/1.jpg",
+        "image": "/chien-tranh-thong-tin.jpg",
         "imageCaption": "Hình minh họa chiến tranh thông tin"
       }
     ]
@@ -403,7 +403,7 @@
         "heading": "Ví dụ thực tế: Việt Nam",
         "body": "Kinh tế thị trường tạo mâu thuẫn mới: Chênh lệch giàu – nghèo.\n\nNăm 2023:\n\n• Nhóm 20% giàu nhất chiếm 40% tổng thu nhập quốc gia\n\n• Nhóm 20% nghèo nhất chỉ chiếm 7%\n\n→ Cần đấu tranh chống bất công xã hội.",
         "hasImage": true,
-        "image": "/1.jpg",
+        "image": "",
         "imageCaption": "Biểu đồ thu nhập theo nhóm dân cư Việt Nam"
       },
       {
@@ -418,7 +418,7 @@
         "heading": "Ví dụ thực tế: Việt Nam",
         "body": "Việt Nam có 400 khu công nghiệp, tạo hơn 5,1 triệu việc làm.\n\nXuất khẩu điện tử chiếm 32% tổng xuất khẩu, dẫn đầu là Samsung với 60.000 lao động.",
         "hasImage": true,
-        "image": "/2.jpg",
+        "image": "/lao-dong.jpg",
         "imageCaption": "Hình công nhân làm việc trong nhà máy điện tử"
       },
       {
@@ -429,7 +429,7 @@
         "heading": "Ví dụ thực tế: Việt Nam",
         "body": "Mỗi năm Việt Nam xử lý gần 7.000 vụ án tham nhũng – kinh tế.\n\nQuỹ BHYT giúp 93% dân số có bảo hiểm y tế (2023).",
         "hasImage": true,
-        "image": "/3.jpeg",
+        "image": "",
         "imageCaption": "Infographic chống tham nhũng ở Việt Nam"
       },
       {
@@ -440,7 +440,7 @@
         "heading": "Ví dụ thực tế: Việt Nam",
         "body": "Bộ Công an ngăn chặn 1.200 cuộc tấn công mạng vào cơ sở dữ liệu Nhà nước năm 2022.",
         "hasImage": true,
-        "image": "/4.jpeg",
+        "image": "/hacker.webp",
         "imageCaption": "Hình hacker tấn công hệ thống dữ liệu"
       }
     ]
