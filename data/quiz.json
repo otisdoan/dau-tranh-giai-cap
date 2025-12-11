@@ -40,7 +40,7 @@
       "id": "mc-4",
       "question": "Hình thức đấu tranh cao nhất của giai cấp vô sản trước khi giành chính quyền là gì?",
       "options": [
-        "Đấu tranh kinh tế",
+        "1. Đấu tranh kinh tế",
         "Đấu tranh tư tưởng",
         "Đấu tranh chính trị",
         "Đấu tranh văn hóa"
@@ -66,41 +66,80 @@
       "id": "mp-1",
       "prompt": "Ghép khái niệm với mô tả",
       "left": [
-        { "id": "l1", "text": "Giai cấp cơ bản" },
-        { "id": "l2", "text": "Giai cấp không cơ bản" },
-        { "id": "l3", "text": "Thực chất quan hệ giai cấp" }
+        {
+          "id": "l1",
+          "text": "Giai cấp cơ bản"
+        },
+        {
+          "id": "l2",
+          "text": "Giai cấp không cơ bản"
+        },
+        {
+          "id": "l3",
+          "text": "Thực chất quan hệ giai cấp"
+        }
       ],
       "right": [
-        { "id": "r1", "text": "Gắn với phương thức sản xuất thống trị" },
+        {
+          "id": "r1",
+          "text": "Gắn với phương thức sản xuất thống trị"
+        },
         {
           "id": "r2",
           "text": "Gắn với phương thức sản xuất tàn dư hoặc mầm mống"
         },
-        { "id": "r3", "text": "Quan hệ bóc lột và bị bóc lột" }
+        {
+          "id": "r3",
+          "text": "Quan hệ bóc lột và bị bóc lột"
+        }
       ],
       "answer": [
-        ["l1", "r1"],
-        ["l2", "r2"],
-        ["l3", "r3"]
+        [
+          "l1",
+          "r1"
+        ],
+        [
+          "l2",
+          "r2"
+        ],
+        [
+          "l3",
+          "r3"
+        ]
       ]
     },
     {
       "id": "mp-2",
       "prompt": "Ghép giai đoạn đấu tranh vô sản với đặc trưng",
       "left": [
-        { "id": "l4", "text": "Trước khi giành chính quyền" },
-        { "id": "l5", "text": "Sau khi giành chính quyền" }
+        {
+          "id": "l4",
+          "text": "Trước khi giành chính quyền"
+        },
+        {
+          "id": "l5",
+          "text": "Sau khi giành chính quyền"
+        }
       ],
       "right": [
-        { "id": "r4", "text": "Đấu tranh kinh tế, chính trị, tư tưởng" },
+        {
+          "id": "r4",
+          "text": "Đấu tranh kinh tế, chính trị, tư tưởng"
+        },
         {
           "id": "r5",
           "text": "Bảo vệ thành quả, cải tạo xã hội cũ, xây dựng xã hội mới"
         }
       ],
       "answer": [
-        ["l4", "r4"],
-        ["l5", "r5"]
+        [
+          "l4",
+          "r4"
+        ],
+        [
+          "l5",
+          "r5"
+        ]
       ]
     }
   ],
