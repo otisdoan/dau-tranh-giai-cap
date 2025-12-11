@@ -121,7 +121,12 @@ function LessonContent({ lesson }: { lesson: Lesson }) {
                 {section.heading}
               </h3>
               {"body" in section && section.body && (
-                <p style={{ margin: 0 }}>{section.body}</p>
+                <div
+                  dangerouslySetInnerHTML={{
+                    __html: (section.body as string).replace(/\n/g, "<br/>"),
+                  }}
+                  style={{ margin: 0 }}
+                />
               )}
               {"bullets" in section && section.bullets && (
                 <ul style={{ marginTop: 10, paddingLeft: 20, marginBottom: 0 }}>
@@ -151,7 +156,12 @@ function LessonContent({ lesson }: { lesson: Lesson }) {
                   className="highlight-card"
                   style={{ padding: 16, marginTop: 12 }}
                 >
-                  <p style={{ margin: 0, lineHeight: 1.7 }}>{section.body}</p>
+                  <div
+                    dangerouslySetInnerHTML={{
+                      __html: (section.body as string).replace(/\n/g, "<br/>"),
+                    }}
+                    style={{ margin: 0, lineHeight: 1.7 }}
+                  />
                 </div>
               )}
               {"bullets" in section && section.bullets && (
@@ -176,9 +186,12 @@ function LessonContent({ lesson }: { lesson: Lesson }) {
               {section.heading}
             </h3>
             {"body" in section && section.body && (
-              <p style={{ marginBottom: 12, lineHeight: 1.7 }}>
-                {section.body}
-              </p>
+              <div
+                dangerouslySetInnerHTML={{
+                  __html: (section.body as string).replace(/\n/g, "<br/>"),
+                }}
+                style={{ marginBottom: 12, lineHeight: 1.7 }}
+              />
             )}
             {"bullets" in section && section.bullets && (
               <ul style={{ marginTop: 10, paddingLeft: 20 }}>
