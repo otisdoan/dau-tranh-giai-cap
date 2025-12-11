@@ -150,18 +150,6 @@ export default function LienMinhGiaiCap() {
                   height={350}
                   style={{ borderRadius: 16, width: "100%", height: "auto" }}
                 />
-                <div
-                  className="image-caption"
-                  style={{
-                    fontSize: "0.9rem",
-                    color: "#666",
-                    marginTop: 8,
-                    fontStyle: "italic",
-                  }}
-                >
-                  Tọa đàm thúc đẩy chuyển đổi số quốc gia, lấy người dân và
-                  doanh nghiệp làm trung tâm
-                </div>
               </div>
             </div>
 
