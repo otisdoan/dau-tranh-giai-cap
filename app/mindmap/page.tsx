@@ -12,6 +12,7 @@ import ReactFlow, {
 } from "reactflow";
 import "reactflow/dist/style.css";
 import mindmap from "@/data/mindmap.json";
+import Breadcrumb from "@/app/components/Breadcrumb";
 
 export default function MindmapPage() {
   const router = useRouter();
@@ -84,6 +85,7 @@ export default function MindmapPage() {
 
   return (
     <div className="container section fade-in">
+      <Breadcrumb items={[{ label: "Sơ đồ tư duy" }]} />
       <div className="section-header">
         <div>
           <h1 className="section-title">Sơ đồ tư duy</h1>

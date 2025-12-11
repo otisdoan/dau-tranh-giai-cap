@@ -1,8 +1,10 @@
 import Link from "next/link";
+import Breadcrumb from "@/app/components/Breadcrumb";
 
 export default function SummaryPage() {
   return (
     <div className="container section fade-in">
+      <Breadcrumb items={[{ label: "Tóm tắt" }]} />
       <div className="section-header">
         <div>
           <h1 className="section-title">Tổng kết</h1>

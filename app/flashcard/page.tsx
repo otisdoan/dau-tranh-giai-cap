@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from "react";
 import flashcards from "@/data/flashcards.json";
+import Breadcrumb from "@/app/components/Breadcrumb";
 
 export default function FlashcardPage() {
   const [index, setIndex] = useState(0);
@@ -32,6 +33,7 @@ export default function FlashcardPage() {
 
   return (
     <div className="container section fade-in">
+      <Breadcrumb items={[{ label: "Flashcard" }]} />
       <div className="section-header">
         <div>
           <h1 className="section-title">Flashcard ôn nhanh</h1>

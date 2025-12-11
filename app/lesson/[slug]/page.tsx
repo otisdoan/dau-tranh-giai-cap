@@ -1,6 +1,8 @@
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import lessons from "@/data/lessons.json";
+import Breadcrumb from "@/app/components/Breadcrumb";
 
 type Lesson = (typeof lessons)[number];
 
@@ -59,9 +61,6 @@ function LessonContent({ lesson }: { lesson: Lesson }) {
       <div className="section-header" style={{ marginBottom: 24 }}>
         <div>
           <h1 className="section-title">{lesson.title}</h1>
-        </div>
-        <div className={statusMap[lesson.status]?.className}>
-          {statusMap[lesson.status]?.label ?? "Trạng thái"}
         </div>
       </div>
 
@@ -133,6 +132,8 @@ function LessonContent({ lesson }: { lesson: Lesson }) {
         }
 
         // Regular content sections
+        const hasImage = "image" in section && section.image;
+
         return (
           <div key={`${section.heading}-${index}`} style={{ marginBottom: 20 }}>
             <h3 style={{ marginBottom: 12, fontSize: "1.2rem" }}>
@@ -151,6 +152,40 @@ function LessonContent({ lesson }: { lesson: Lesson }) {
                   </li>
                 ))}
               </ul>
+            )}
+            {hasImage && (
+              <div style={{ marginTop: 16, position: "relative" }}>
+                <div
+                  style={{
+                    position: "relative",
+                    width: "100%",
+                    height: 400,
+                    borderRadius: 12,
+                    overflow: "hidden",
+                    boxShadow: "0 4px 12px rgba(0,0,0,0.1)",
+                  }}
+                >
+                  <Image
+                    src={(section as any).image}
+                    alt={section.heading}
+                    fill
+                    style={{ objectFit: "cover" }}
+                  />
+                </div>
+                {"imageCaption" in section && section.imageCaption && (
+                  <p
+                    style={{
+                      fontSize: "0.9rem",
+                      color: "#666",
+                      marginTop: 8,
+                      fontStyle: "italic",
+                      textAlign: "center",
+                    }}
+                  >
+                    {(section as any).imageCaption}
+                  </p>
+                )}
+              </div>
             )}
           </div>
         );
@@ -190,6 +225,9 @@ export default async function LessonPage({
 
   return (
     <div className="container section fade-in">
+      <Breadcrumb
+        items={[{ label: "Bài học", href: "/lesson" }, { label: lesson.title }]}
+      />
       <div className="layout-two-col">
         <LessonMenu current={lesson.slug} />
         <LessonContent lesson={lesson} />

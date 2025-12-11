@@ -1,8 +1,10 @@
 import profile from "@/data/profile.json";
+import Breadcrumb from "@/app/components/Breadcrumb";
 
 export default function ProfilePage() {
   return (
     <div className="container section fade-in">
+      <Breadcrumb items={[{ label: "Hồ sơ" }]} />
       <div className="section-header">
         <div>
           <h1 className="section-title">Hồ sơ người học</h1>

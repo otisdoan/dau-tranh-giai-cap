@@ -558,6 +558,54 @@ a {
   box-shadow: 0 2px 8px rgba(196, 30, 58, 0.1);
 }
 
+/* Breadcrumb Styles */
+.breadcrumb-nav {
+  margin-bottom: 16px;
+  padding: 8px 0;
+  margin-top: -50px;
+}
+
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 8px;
+}
+
+.breadcrumb-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.95rem;
+}
+
+.breadcrumb-item a {
+  color: var(--color-accent);
+  text-decoration: none;
+  transition: all 0.2s ease;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+.breadcrumb-item a:hover {
+  background: rgba(196, 30, 58, 0.1);
+  color: var(--color-accent);
+}
+
+.breadcrumb-separator {
+  color: var(--color-muted);
+  user-select: none;
+}
+
+.breadcrumb-current {
+  color: var(--color-text);
+  font-weight: 500;
+  padding: 4px 8px;
+}
+
 .quiz-options {
   display: grid;
   gap: 12px;

@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from "react";
 import quizData from "@/data/quiz.json";
+import Breadcrumb from "@/app/components/Breadcrumb";
 
 type Mode = "mcq" | "match" | "fill";
 
@@ -10,6 +11,7 @@ export default function QuizPage() {
 
   return (
     <div className="container section fade-in">
+      <Breadcrumb items={[{ label: "Quiz" }]} />
       <div className="section-header">
         <div>
           <h1 className="section-title">Quiz & Mini game ôn tập</h1>

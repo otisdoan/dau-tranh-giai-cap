@@ -1,6 +1,9 @@
+import Breadcrumb from "@/app/components/Breadcrumb";
+
 export default function ContactPage() {
   return (
     <div className="container section fade-in">
+      <Breadcrumb items={[{ label: "Liên hệ" }]} />
       <div className="section-header">
         <div>
           <h1 className="section-title">Liên hệ</h1>

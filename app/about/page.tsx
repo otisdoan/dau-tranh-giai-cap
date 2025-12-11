@@ -1,6 +1,9 @@
+import Breadcrumb from "@/app/components/Breadcrumb";
+
 export default function AboutPage() {
   return (
     <div className="container section fade-in">
+      <Breadcrumb items={[{ label: "Giới thiệu" }]} />
       <div className="section-header">
         <div>
           <h1 className="section-title">Giới thiệu</h1>

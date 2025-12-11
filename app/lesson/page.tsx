@@ -1,9 +1,11 @@
 import Link from "next/link";
 import lessons from "@/data/lessons.json";
+import Breadcrumb from "@/app/components/Breadcrumb";
 
 export default function LessonIndex() {
   return (
     <div className="container section fade-in">
+      <Breadcrumb items={[{ label: "Bài học" }]} />
       <div className="section-header">
         <div>
           <h1 className="section-title">Bài học</h1>
