@@ -45,7 +45,7 @@ export default function Home() {
           ))}
         </div>
         <div className="hero-inner">
-          <h1>TRIẾT HỌC MÁC – LÊNIN: GIAI CẤP VÀ ĐẤU TRANH GIAI CẤP</h1>
+          <h1>GIAI CẤP VÀ ĐẤU TRANH GIAI CẤP</h1>
           <p>
             Học nhanh – hiểu sâu – ghi nhớ hiệu quả. Tinh thần tuyên ngôn, trang
             trọng và lịch sử, bám sát chủ đề giai cấp và đấu tranh giai cấp.
