@@ -47,8 +47,9 @@ export default function Home() {
         <div className="hero-inner">
           <h1>GIAI CẤP VÀ ĐẤU TRANH GIAI CẤP</h1>
           <p>
-            Học nhanh – hiểu sâu – ghi nhớ hiệu quả. Tinh thần tuyên ngôn, trang
-            trọng và lịch sử, bám sát chủ đề giai cấp và đấu tranh giai cấp.
+            Giai cấp và đấu tranh giai cấp là quá trình xã hội bị phân hoá thành
+            các nhóm có lợi ích đối lập, từ đó nảy sinh xung đột nhằm giành
+            quyền lợi và ảnh hưởng trong xã hội.
           </p>
           <div className="hero-actions">
             <Link href="/lesson/giai-cap" className="btn btn-hero">
@@ -110,7 +111,7 @@ export default function Home() {
                 Hover node → xem tóm tắt, click → tới bài tương ứng.
               </p>
               <div className="pill" style={{ marginTop: 12 }}>
-                Mindmap • react-flow / SVG
+                Mindmap
               </div>
             </div>
             <div className="card quiz-card">
