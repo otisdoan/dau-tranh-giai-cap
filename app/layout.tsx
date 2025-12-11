@@ -29,7 +29,7 @@ const navLinks = [
   { href: "/quiz", label: "Quiz" },
   { href: "/flashcard", label: "Flashcard" },
   { href: "/lien-minh-giai-cap", label: "CQ" },
-  { href: "/profile", label: "Hồ sơ" },
+  { href: "/video", label: "Video" },
 ];
 
 function SiteHeader() {
