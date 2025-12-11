@@ -7,28 +7,28 @@
     "sections": [
       {
         "heading": "Định nghĩa giai cấp",
-        "body": "Trong “Sáng kiến vĩ đại”, V.I.Lênin nêu: Giai cấp là tập đoàn người to lớn khác nhau về địa vị trong hệ thống sản xuất xã hội, quan hệ đối với tư liệu sản xuất, vai trò trong tổ chức lao động và cách thức hưởng thụ của cải; tập đoàn này có thể chiếm đoạt lao động của tập đoàn khác do địa vị khác nhau trong chế độ kinh tế - xã hội.",
+        "body": "Trong tác phẩm 'Sáng kiến vĩ đại', V.I.Lênin đã đưa ra định nghĩa giai cấp: 'Người ta gọi giai cấp, những tập đoàn người to lớn gồm những người khác nhau về địa vị của họ trong một hệ sản xuất xã hội nhất định trong lịch sử, khác nhau về quan hệ của họ (thường thì các quan hệ này được pháp luật quy định và thừa nhận) đối với tư liệu sản xuất, về vai trò của họ trong tổ chức lao động xã hội và như vậy khác nhau về cách thức hưởng thụ và về phần của cải xã hội ít hoặc nhiều mà họ được hưởng. Giai cấp là những tập đoàn người, mà tập đoàn này có thể chiếm đoạt lao động của tập đoàn khác, do chỗ tập đoàn đó có địa vị khác nhau trong một chế độ kinh tế - xã hội nhất định'.",
         "highlight": true
       },
       {
         "heading": "Đặc trưng của giai cấp",
         "bullets": [
-          "Khác nhau về địa vị kinh tế - xã hội trong một hệ thống sản xuất nhất định.",
-          "Khác nhau về quan hệ đối với tư liệu sản xuất.",
-          "Khác nhau về vai trò trong tổ chức lao động xã hội.",
-          "Khác nhau về phương thức phân phối sản phẩm."
+          "Giai cấp là những tập đoàn người có địa vị kinh tế - xã hội khác nhau trong một hệ thống sản xuất xã hội nhất định trong lịch sử.",
+          "Giai cấp là những tập đoàn người khác nhau về quan hệ đối với tư liệu sản xuất.",
+          "Giai cấp là những tập đoàn người khác nhau về vai trò trong tổ chức lao động xã hội.",
+          "Giai cấp là những tập đoàn người khác nhau về phương thức phân phối sản phẩm."
         ]
       },
       {
-        "heading": "Thực chất quan hệ giai cấp",
-        "body": "Quan hệ giữa bóc lột và bị bóc lột: tập đoàn người này chiếm đoạt lao động của tập đoàn khác do đối lập về địa vị trong chế độ kinh tế - xã hội.",
+        "heading": "Thực chất của quan hệ giai cấp",
+        "body": "Là quan hệ giữa bóc lột và bị bóc lột, tập đoàn người này chiếm đoạt lao động của tập đoàn người khác do đối lập về địa vị trong chế độ kinh tế - xã hội nhất định.",
         "variant": "alert-red"
       },
       {
-        "heading": "Ý nghĩa định nghĩa của Lênin",
+        "heading": "Ý nghĩa định nghĩa giai cấp của Lênin",
         "bullets": [
-          "Giai cấp là phạm trù kinh tế - xã hội có tính lịch sử, gắn với chế độ tư hữu về tư liệu sản xuất.",
-          "Là cơ sở khoa học để nhận thức vị trí, vai trò, bản chất giai cấp trong lịch sử và trang bị cho giai cấp vô sản cơ sở lý luận đấu tranh."
+          "Định nghĩa giai cấp của Lênin cho thấy, giai cấp là một phạm trù kinh tế - xã hội có tính lịch sử, tồn tại gắn với những hệ thống sản xuất xã hội dựa trên cơ sở của chế độ tư hữu về tư liệu sản xuất.",
+          "Định nghĩa giai cấp của Lênin là định nghĩa khoa học, có giá trị to lớn về lý luận và thực tiễn, là cơ sở để nhận thức đúng đắn vị trí, vai trò, bản chất của giai cấp trong lịch sử; đồng thời trang bị cho giai cấp vô sản cơ sở khoa học để nhận thức vai trò lịch sử của mình trong cuộc đấu tranh xóa bỏ giai cấp và xây dựng xã hội mới."
         ]
       }
     ]
@@ -40,47 +40,63 @@
     "status": "Chưa học",
     "sections": [
       {
-        "heading": "Nguồn gốc",
+        "heading": "Nguồn gốc của giai cấp",
+        "body": "Giai cấp xuất hiện do sự phát triển của lực lượng sản xuất và chế độ tư hữu về tư liệu sản xuất:"
+      },
+      {
+        "heading": "Nguồn gốc sâu xa",
+        "body": "Là sự phát triển của lực lượng sản xuất, năng suất lao động tăng lên, xuất hiện 'của dư', tạo khả năng khách quan, tiền đề cho tập đoàn người này chiếm đoạt lao động của người khác."
+      },
+      {
+        "heading": "Nguồn gốc trực tiếp",
+        "body": "Do xã hội xuất hiện chế độ tư hữu về tư liệu sản xuất, đặc biệt là những tư liệu sản xuất chủ yếu của xã hội.",
+        "variant": "alert-red"
+      },
+      {
+        "heading": "Con đường hình thành giai cấp",
+        "body": "Trong lịch sử xã hội, con đường hình thành giai cấp rất phức tạp, có nhiều con đường:",
         "bullets": [
-          "Sâu xa: lực lượng sản xuất phát triển, năng suất lao động tăng, xuất hiện của dư → khả năng chiếm đoạt lao động người khác.",
-          "Trực tiếp: xã hội xuất hiện chế độ tư hữu về tư liệu sản xuất, đặc biệt là tư liệu sản xuất chủ yếu."
+          "Những người có chức, có quyền lợi dụng quyền lực để chiếm đoạt tài sản công làm của riêng.",
+          "Những tù binh bị bắt được trong chiến tranh được sử dụng làm nô lệ để sản xuất.",
+          "Các tầng lớp xã hội tự do trao đổi, bị phân hóa thành các giai cấp khác nhau..."
         ]
       },
       {
-        "heading": "Con đường hình thành",
-        "bullets": [
-          "Lợi dụng chức quyền để chiếm đoạt tài sản công.",
-          "Tù binh chiến tranh bị biến thành nô lệ phục vụ sản xuất.",
-          "Tầng lớp tự do trao đổi bị phân hóa thành các giai cấp."
-        ]
-      },
-      {
-        "heading": "Điều kiện phân hóa",
-        "body": "Chiến tranh, cướp bóc, bạo lực xã hội và các thủ đoạn tích lũy khác làm sâu sắc sự phân hóa giai cấp."
+        "heading": "Điều kiện phân hóa giai cấp",
+        "body": "Các cuộc chiến tranh, những thủ đoạn cướp bóc, những hành vi bạo lực trong xã hội... là những điều kiện làm sâu sắc thêm sự phân hóa giai cấp."
       }
     ]
   },
   {
     "id": "social-structure",
     "slug": "ket-cau-xa-hoi-giai-cap",
-    "title": "Kết cấu xã hội – giai cấp",
+    "title": "Kết cấu xã hội - giai cấp",
     "status": "Chưa học",
     "sections": [
       {
         "heading": "Khái niệm",
-        "body": "Tổng thể các giai cấp và mối quan hệ giữa chúng trong một giai đoạn lịch sử nhất định."
+        "body": "Kết cấu xã hội - giai cấp là tổng thể các giai cấp và mối quan hệ giữa các giai cấp, tồn tại trong một giai đoạn lịch sử nhất định.",
+        "highlight": true
       },
       {
-        "heading": "Thành phần",
-        "bullets": [
-          "Giai cấp cơ bản: gắn với phương thức sản xuất thống trị.",
-          "Giai cấp không cơ bản: gắn với phương thức sản xuất tàn dư hoặc mầm mống.",
-          "Tầng lớp/nhóm xã hội (trí thức, nhân sĩ, tu hành…): phục vụ cho các giai cấp khác, phần lớn phục vụ giai cấp thống trị."
-        ]
+        "heading": "Kết cấu xã hội - giai cấp",
+        "body": "Trong kết cấu xã hội - giai cấp bao gồm: Giai cấp cơ bản, giai cấp không cơ bản và các tầng lớp, nhóm xã hội nhất định."
       },
       {
-        "heading": "Đặc điểm vận động",
-        "body": "Kết cấu xã hội – giai cấp luôn vận động, biến đổi cùng quá trình phát triển của phương thức sản xuất."
+        "heading": "Giai cấp cơ bản",
+        "body": "Là những giai cấp gắn với phương thức sản xuất thống trị, là sản phẩm của phương thức sản xuất thống trị nhất định."
+      },
+      {
+        "heading": "Giai cấp không cơ bản",
+        "body": "Là những giai cấp gắn với phương thức sản xuất tàn dư, hoặc mầm mống trong xã hội."
+      },
+      {
+        "heading": "Các tầng lớp, nhóm xã hội",
+        "body": "Các tầng lớp, nhóm xã hội nhất định (tầng lớp trí thức, nhân sĩ, tu hành...): Có vai trò trong quan hệ kinh tế, chính trị, văn hóa, phục vụ cho các giai cấp khác nhau, phần lớn là phục vụ cho giai cấp thống trị."
+      },
+      {
+        "heading": "Đặc điểm của kết cấu xã hội - giai cấp",
+        "body": "Kết cấu xã hội - giai cấp luôn có sự vận động, biến đổi không ngừng, diễn ra không chỉ khi xã hội có sự chuyển biến các phương thức sản xuất, mà trong cả quá trình phát triển của mỗi phương thức sản xuất."
       }
     ]
   },
@@ -91,27 +107,50 @@
     "status": "Chưa học",
     "sections": [
       {
-        "heading": "Định nghĩa và tính tất yếu",
-        "body": "Đấu tranh giai cấp là cuộc đấu tranh của các tập đoàn người to lớn có lợi ích căn bản đối lập trong một phương thức sản xuất nhất định; tất yếu do đối lập lợi ích kinh tế không thể điều hòa."
+        "heading": "Tính tất yếu và thực chất của đấu tranh giai cấp",
+        "body": "Đấu tranh giai cấp là hiện tượng tất yếu trong xã hội có giai cấp đối lập."
       },
       {
-        "heading": "Thực chất",
-        "body": "Cuộc đấu tranh của quần chúng lao động bị áp bức, bóc lột chống lại giai cấp thống trị nhằm lật đổ ách thống trị."
+        "heading": "Định nghĩa đấu tranh giai cấp",
+        "body": "Đấu tranh giai cấp là cuộc đấu tranh của các tập đoàn người to lớn có lợi ích căn bản đối lập nhau trong một phương thức sản xuất xã hội nhất định.",
+        "highlight": true
       },
       {
-        "heading": "Đặc trưng",
+        "heading": "Tính tất yếu của đấu tranh giai cấp",
+        "body": "Đấu tranh giai cấp là tất yếu do sự đối lập về lợi ích căn bản không thể điều hòa được giữa các giai cấp, xuất phát từ tính tất yếu kinh tế, nguyên nhân là do sự đối kháng về lợi ích cơ bản giữa giai cấp bị trị và giai cấp thống trị."
+      },
+      {
+        "heading": "Thực chất của đấu tranh giai cấp",
+        "body": "Là cuộc đấu tranh của quần chúng lao động bị áp bức, bóc lột chống lại giai cấp áp bức, bóc lột nhằm lật đổ ách thống trị.",
+        "variant": "alert-red"
+      },
+      {
+        "heading": "Đặc trưng của đấu tranh giai cấp",
         "bullets": [
-          "Không vĩnh viễn; đỉnh cao là cuộc đấu tranh của giai cấp vô sản – cuộc đấu tranh cuối cùng trong lịch sử các xã hội có giai cấp.",
-          "Liên minh giai cấp là tất yếu trong đấu tranh."
+          "Đấu tranh giai cấp không phải là hiện tượng vĩnh viễn. Cuộc đấu tranh giai cấp giữa các giai cấp trong lịch sử tất yếu dẫn đến cuộc đấu tranh của giai cấp vô sản. Đây là cuộc đấu tranh giai cấp cuối cùng trong lịch sử.",
+          "Trong đấu tranh giai cấp, liên minh giai cấp là tất yếu."
         ]
       },
       {
-        "heading": "Vai trò",
-        "bullets": [
-          "Phương thức cơ bản giải quyết mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất, dẫn đến cách mạng xã hội.",
-          "Cải tạo xã hội, xóa bỏ lực lượng sản xuất phản động, cải tạo các giai cấp cách mạng.",
-          "Thúc đẩy mọi mặt đời sống xã hội phát triển; là động lực trực tiếp của lịch sử xã hội có giai cấp."
-        ]
+        "heading": "Vai trò của đấu tranh giai cấp trong sự phát triển của xã hội có giai cấp",
+        "body": "Đấu tranh giai cấp đóng vai trò động lực trực tiếp của sự phát triển xã hội:"
+      },
+      {
+        "heading": "Giải quyết mâu thuẫn cơ bản",
+        "body": "Đấu tranh giai cấp là phương thức cơ bản để giải quyết mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất. Đấu tranh giai cấp phát triển đến đỉnh cao sẽ dẫn đến cách mạng xã hội. Thông qua cách mạng xã hội mà quan hệ sản xuất cũ bị xóa bỏ, quan hệ sản xuất mới phù hợp với trình độ phát triển của lực lượng sản xuất được xác lập, từ đó thúc đẩy sự phát triển của xã hội."
+      },
+      {
+        "heading": "Cải tạo xã hội",
+        "body": "Đấu tranh giai cấp có tác dụng cải tạo xã hội, xóa bỏ lực lượng sản xuất phản động, cải tạo bản thân các giai cấp cách mạng."
+      },
+      {
+        "heading": "Thúc đẩy phát triển toàn diện",
+        "body": "Đấu tranh giai cấp làm cho tất cả mọi mặt đời sống xã hội (kinh tế, chính trị, văn hóa, tư tưởng...) phát triển nhanh chóng."
+      },
+      {
+        "heading": "Kết luận",
+        "body": "Đấu tranh giai cấp là động lực trực tiếp của lịch sử các xã hội có giai cấp.",
+        "variant": "alert-red"
       }
     ]
   },
@@ -122,54 +161,162 @@
     "status": "Chưa học",
     "sections": [
       {
-        "heading": "Trước khi giành chính quyền",
-        "bullets": [
-          "Đấu tranh kinh tế: bảo vệ lợi ích hàng ngày (lương, thời gian lao động, điều kiện sống).",
-          "Đấu tranh chính trị: lật đổ ách thống trị tư sản, giành chính quyền.",
-          "Đấu tranh tư tưởng: đập tan hệ tư tưởng tư sản, giáo dục lý luận Mác – Lênin."
-        ]
+        "heading": "Đấu tranh giai cấp của giai cấp vô sản",
+        "body": "Cuộc đấu tranh của giai cấp vô sản chia làm hai giai đoạn: Giai đoạn trước khi giành chính quyền và giai đoạn sau khi giành chính quyền.",
+        "highlight": true
       },
       {
-        "heading": "Sau khi giành chính quyền (thời kỳ quá độ)",
-        "bullets": [
-          "Bối cảnh: tư sản mất chính quyền nhưng còn tiềm lực; cơ sở nảy sinh giai cấp bóc lột và tư tưởng cũ còn tồn tại.",
-          "Nội dung: bảo vệ thành quả cách mạng; cải tạo xã hội cũ, xây dựng xã hội mới trên kinh tế, chính trị, văn hóa.",
-          "Hình thức: kết hợp bạo lực/hòa bình, quân sự/kinh tế, giáo dục/hành chính; chống “diễn biến hòa bình”."
-        ]
+        "heading": "Đấu tranh giai cấp của giai cấp vô sản khi chưa có chính quyền",
+        "body": "C.Mác và Ph.Ăngghen khái quát và chỉ ra ba hình thức đấu tranh cơ bản:"
+      },
+      {
+        "heading": "Đấu tranh kinh tế",
+        "body": "Bảo vệ những lợi ích hàng ngày của công nhân như tăng lương, rút ngắn thời gian lao động, cải thiện điều kiện sống..."
+      },
+      {
+        "heading": "Đấu tranh chính trị",
+        "body": "Mục tiêu của đấu tranh chính trị là lật đổ ách thống trị của giai cấp tư sản, phản động, giành chính quyền về tay giai cấp vô sản.",
+        "variant": "alert-red"
+      },
+      {
+        "heading": "Đấu tranh tư tưởng",
+        "body": "Mục đích nhằm đập tan hệ tư tưởng của giai cấp tư sản, khắc phục ảnh hưởng của tư tưởng, tâm lý, tập quán lạc hậu trong phong trào cách mạng, giáo dục lý luận của chủ nghĩa Mác - Lênin..."
+      },
+      {
+        "heading": "Kết luận về ba hình thức đấu tranh",
+        "body": "Ba hình thức đấu tranh có quan hệ chặt chẽ, hỗ trợ nhau, nhưng có vai trò không ngang nhau, trong đó đấu tranh chính trị là hình thức đấu tranh cao nhất, có ý nghĩa quyết định thắng lợi của giai cấp vô sản."
+      }
+    ]
+  },
+  {
+    "id": "transition-period",
+    "slug": "thoi-ky-qua-do",
+    "title": "Đấu tranh giai cấp trong thời kì quá độ",
+    "status": "Chưa học",
+    "sections": [
+      {
+        "heading": "Đấu tranh giai cấp trong thời kì quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội",
+        "body": "Sau khi giành được chính quyền, giai cấp vô sản phải tiếp tục đấu tranh giai cấp trong thời kì quá độ.",
+        "highlight": true
+      },
+      {
+        "heading": "Tính tất yếu của đấu tranh giai cấp trong thời kì quá độ",
+        "body": "Đấu tranh giai cấp trong thời kì quá độ là tất yếu do nhiều nguyên nhân:"
+      },
+      {
+        "heading": "Giai cấp tư sản vẫn còn tiềm lực",
+        "body": "Giai cấp tư sản đã bị đánh đổ về mặt chính quyền, song vẫn còn tiềm lực về kinh tế, chính trị và tư tưởng, luôn tìm cách khôi phục lại địa vị đã mất."
+      },
+      {
+        "heading": "Cơ sở nảy sinh giai cấp bóc lột còn tồn tại",
+        "body": "Trong thời kì quá độ, cơ sở để nảy sinh giai cấp bóc lột vẫn còn tồn tại."
+      },
+      {
+        "heading": "Tư tưởng cũ chưa bị quét sạch",
+        "body": "Những tư tưởng, tâm lý, tập quán của giai cấp bóc lột của xã hội cũ chưa bị quét sạch."
+      },
+      {
+        "heading": "Nội dung đấu tranh trong thời kì quá độ",
+        "body": "Đấu tranh giai cấp trong thời kì quá độ có những nội dung mới:"
+      },
+      {
+        "heading": "Điều kiện mới",
+        "body": "Giai cấp vô sản trước kia chưa giành được chính quyền, nay đã có chính quyền."
+      },
+      {
+        "heading": "Nội dung mới",
+        "body": "Giai cấp vô sản thực hiện đồng thời hai nhiêm vụ chiến lược, là bảo vệ vững chắc thành quả cách mạng đã giành được và cải tạo xã hội cũ, xây dựng thành công xã hội mới trên các lĩnh vực.",
+        "variant": "alert-red"
+      },
+      {
+        "heading": "Hình thức mới",
+        "body": "Giai cấp vô sản sử dụng tổng hợp các hình thức: bạo lực và hòa bình, quân sự và kinh tế, giáo dục và hành chính... biểu hiện ở việc thực hiện các nhiệm vụ cụ thể:"
+      },
+      {
+        "heading": "Về kinh tế",
+        "body": "Xây dựng, phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa."
+      },
+      {
+        "heading": "Về chính trị",
+        "body": "Xây dựng, phát huy nền dân chủ xã hội chủ nghĩa, hoàn thiện hệ thống chính trị và nhà nước pháp quyền xã hội chủ nghĩa."
+      },
+      {
+        "heading": "Về tư tưởng và văn hóa",
+        "body": "Xác định vai trò thống trị của hệ tư tưởng chủ nghĩa Mác - Lênin, xây dựng nền văn hóa xã hội chủ nghĩa."
+      },
+      {
+        "heading": "Tính chất mới",
+        "body": "Giai cấp vô sản phải đấu tranh chống chiến lược 'diễn biến hòa bình' của chủ nghĩa đế quốc và các thế lực thù địch, bảo vệ vững chắc hệ tư tưởng vô sản và đấu tranh kiên quyết với các tư tưởng sai lầm, phản động của giai cấp tư sản và chủ nghĩa cơ hội."
       }
     ]
   },
   {
     "id": "transition-vietnam",
     "slug": "thoi-ky-qua-do-viet-nam",
-    "title": "Đặc điểm đấu tranh giai cấp thời kỳ quá độ ở Việt Nam",
+    "title": "Đặc điểm đấu tranh giai cấp ở Việt Nam",
     "status": "Chưa học",
     "sections": [
       {
-        "heading": "Tính tất yếu",
-        "bullets": [
-          "Mục tiêu xây dựng CNXH chưa hoàn thành; cơ sở kinh tế cho giai cấp bóc lột còn tồn tại.",
-          "Kinh tế hàng hóa nhiều thành phần phải giữ định hướng XHCN, chống khuynh hướng tư bản hóa.",
-          "Thế lực phản động kết hợp chủ nghĩa đế quốc thúc đẩy “diễn biến hòa bình”.",
-          "Tàn dư tư tưởng, tâm lý, tập quán lạc hậu và mặt trái thị trường vẫn hiện diện."
-        ]
+        "heading": "Đặc điểm đấu tranh giai cấp trong thời kì quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay",
+        "body": "Đấu tranh giai cấp ở Việt Nam có những đặc điểm riêng phù hợp với hoàn cảnh lịch sử và điều kiện cụ thể của đất nước.",
+        "highlight": true
       },
       {
-        "heading": "Nội dung",
-        "bullets": [
-          "Công nghiệp hóa, hiện đại hóa theo định hướng XHCN.",
-          "Thực hiện công bằng xã hội, chống áp bức bóc lột.",
-          "Đấu tranh với tư tưởng, hành động tiêu cực, sai trái; làm thất bại âm mưu chống phá.",
-          "Bảo vệ độc lập dân tộc, xây dựng thành công CNXH."
-        ]
+        "heading": "Tính tất yếu của đấu tranh giai cấp ở Việt Nam",
+        "body": "Đấu tranh giai cấp trong thời kì quá độ ở Việt Nam là tất yếu do nhiều nguyên nhân:"
       },
       {
-        "heading": "Hình thức và phương hướng",
-        "bullets": [
-          "Kết hợp hành chính và giáo dục; cải tạo và xây dựng; sử dụng hình thức kinh tế trung gian, quá độ.",
-          "Phát triển kinh tế thị trường định hướng XHCN; mở cửa, hội nhập.",
-          "Nâng cao năng lực và sức chiến đấu của Đảng; đẩy mạnh đổi mới toàn diện; phát triển văn hóa, tiến bộ và công bằng xã hội."
-        ]
+        "heading": "Mục tiêu xây dựng CNXH chưa hoàn thành",
+        "body": "Trong thời kì quá độ ở Việt Nam, mục tiêu cuối cùng của cuộc đấu tranh giai cấp của giai cấp vô sản là xây dựng thành công chủ nghĩa xã hội chưa hoàn thành."
+      },
+      {
+        "heading": "Cơ sở kinh tế nảy sinh giai cấp bóc lột còn tồn tại",
+        "body": "Cơ sở kinh tế nảy sinh giai cấp bóc lột và mâu thuẫn giai cấp còn tồn tại."
+      },
+      {
+        "heading": "Thách thức từ kinh tế thị trường",
+        "body": "Nền kinh tế hàng hóa nhiều thành phần theo cơ chế thị trường phải đấu tranh chống lại khuynh hướng tự phát đi lên chủ nghĩa tư bản, giữ vững định hướng xã hội chủ nghĩa."
+      },
+      {
+        "heading": "Âm mưu diễn biến hòa bình",
+        "body": "Các thế lực phản động trong nước đang câu kết với chủ nghĩa đế quốc, ráo riết thực hiện âm mưu 'diễn biến hòa bình' hòng xóa bỏ vai trò lãnh đạo của Đảng cộng sản và chế độ xã hội chủ nghĩa ở Việt Nam.",
+        "variant": "alert-red"
+      },
+      {
+        "heading": "Tàn dư tư tưởng lạc hậu",
+        "body": "Những tàn dư về tư tưởng, tâm lý, tập quán lạc hậu của giai cấp phong kiến, tư sản, chủ nghĩa thực dân cũ, chủ nghĩa thực dân mới... còn tồn tại. Mặt khác, các tư tưởng, tâm lý lạc hậu nảy sinh trong điều kiện kinh tế thị trường do mặt trái sinh ra."
+      },
+      {
+        "heading": "Nội dung đấu tranh giai cấp ở Việt Nam",
+        "body": "Nội dung cụ thể của đấu tranh giai cấp trong thời kì quá độ ở Việt Nam bao gồm:"
+      },
+      {
+        "heading": "Công nghiệp hóa, hiện đại hóa",
+        "body": "Thực hiện thắng lợi sự nghiệp công nghiệp hóa, hiện đại hóa theo định hướng xã hội chủ nghĩa, khắc phục tình trạng nước nghèo, nước kém phát triển."
+      },
+      {
+        "heading": "Thực hiện công bằng xã hội",
+        "body": "Thực hiện công bằng xã hội, chống áp bức, bóc lột, bất công."
+      },
+      {
+        "heading": "Đấu tranh chống tiêu cực",
+        "body": "Đấu tranh ngăn chặn, khắc phục những tư tưởng, hành động tiêu cực, sai trái."
+      },
+      {
+        "heading": "Chống âm mưu thù địch",
+        "body": "Đấu tranh làm thất bại mọi âm mưu và hành động chống phá của các thế lực thù địch."
+      },
+      {
+        "heading": "Bảo vệ độc lập dân tộc",
+        "body": "Bảo vệ độc lập dân tộc, xây dựng thành công chủ nghĩa xã hội."
+      },
+      {
+        "heading": "Hình thức đấu tranh ở Việt Nam",
+        "body": "Kết hợp hành chính và giáo dục; giữa cải tạo và xây dựng; sử dụng các hình thức kinh tế trung gian, quá độ; phát triển kinh tế thị trường định hướng xã hội chủ nghĩa; mở cửa và hội nhập..."
+      },
+      {
+        "heading": "Phương hướng và nhiệm vụ",
+        "body": "Nâng cao năng lực và sức chiến đấu của Đảng; đẩy mạnh toàn diện công cuộc đổi mới và sự nghiệp công nghiệp hóa, hiện đại hóa đất nước; phát triển văn hóa, thực hiện tiến bộ và công bằng xã hội..."
       }
     ]
   }

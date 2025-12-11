@@ -28,6 +28,7 @@ const navLinks = [
   { href: "/mindmap", label: "Sơ đồ" },
   { href: "/quiz", label: "Quiz" },
   { href: "/flashcard", label: "Flashcard" },
+  { href: "/lien-minh-giai-cap", label: "CQ" },
   { href: "/profile", label: "Hồ sơ" },
 ];
 

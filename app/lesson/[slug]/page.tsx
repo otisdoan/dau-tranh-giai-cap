@@ -56,58 +56,108 @@ function LessonMenu({ current }: { current: string }) {
 function LessonContent({ lesson }: { lesson: Lesson }) {
   return (
     <div className="lesson-content">
-      <div className="section-header" style={{ marginBottom: 0 }}>
+      <div className="section-header" style={{ marginBottom: 24 }}>
         <div>
           <h1 className="section-title">{lesson.title}</h1>
-          <p className="section-subtitle">
-            Từ khóa chính, block nhấn mạnh và ví dụ ngắn gọn.
-          </p>
         </div>
         <div className={statusMap[lesson.status]?.className}>
           {statusMap[lesson.status]?.label ?? "Trạng thái"}
         </div>
       </div>
 
-      {lesson.sections.map((section) => {
+      {lesson.sections.map((section, index) => {
         const isAlert =
           "variant" in section &&
           (section as { variant?: string }).variant === "alert-red";
 
+        const isHighlight =
+          "highlight" in section &&
+          (section as { highlight?: boolean }).highlight === true;
+
+        // Alert box - red background
         if (isAlert) {
           return (
-            <div key={section.heading} className="alert-red">
-              <h3>{section.heading}</h3>
-              {"body" in section && section.body && <p>{section.body}</p>}
+            <div
+              key={`${section.heading}-${index}`}
+              className="alert-red"
+              style={{ marginBottom: 20 }}
+            >
+              <h3 style={{ marginBottom: 10, fontSize: "1.1rem" }}>
+                {section.heading}
+              </h3>
+              {"body" in section && section.body && (
+                <p style={{ margin: 0 }}>{section.body}</p>
+              )}
+              {"bullets" in section && section.bullets && (
+                <ul style={{ marginTop: 10, paddingLeft: 20, marginBottom: 0 }}>
+                  {(section.bullets as string[]).map((bullet, i) => (
+                    <li key={i} style={{ marginBottom: 6 }}>
+                      {bullet}
+                    </li>
+                  ))}
+                </ul>
+              )}
             </div>
           );
         }
 
+        // Highlight box - yellow background for definitions
+        if (isHighlight) {
+          return (
+            <div
+              key={`${section.heading}-${index}`}
+              style={{ marginBottom: 20 }}
+            >
+              <h3 style={{ marginBottom: 12, fontSize: "1.2rem" }}>
+                {section.heading}
+              </h3>
+              {"body" in section && section.body && (
+                <div
+                  className="highlight-card"
+                  style={{ padding: 16, marginTop: 12 }}
+                >
+                  <p style={{ margin: 0, lineHeight: 1.7 }}>{section.body}</p>
+                </div>
+              )}
+              {"bullets" in section && section.bullets && (
+                <ul style={{ marginTop: 12, paddingLeft: 20 }}>
+                  {(section.bullets as string[]).map((bullet, i) => (
+                    <li key={i} style={{ marginBottom: 8, lineHeight: 1.6 }}>
+                      {bullet}
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
+          );
+        }
+
+        // Regular content sections
         return (
-          <div key={section.heading} className="card">
-            <h3>{section.heading}</h3>
+          <div key={`${section.heading}-${index}`} style={{ marginBottom: 20 }}>
+            <h3 style={{ marginBottom: 12, fontSize: "1.2rem" }}>
+              {section.heading}
+            </h3>
             {"body" in section && section.body && (
-              <p className="muted">{section.body}</p>
+              <p style={{ marginBottom: 12, lineHeight: 1.7 }}>
+                {section.body}
+              </p>
             )}
             {"bullets" in section && section.bullets && (
-              <ul style={{ marginTop: 10, paddingLeft: 18 }}>
-                {section.bullets.map((b) => (
-                  <li key={b} style={{ marginBottom: 6 }}>
-                    {b}
+              <ul style={{ marginTop: 10, paddingLeft: 20 }}>
+                {(section.bullets as string[]).map((bullet, i) => (
+                  <li key={i} style={{ marginBottom: 8, lineHeight: 1.6 }}>
+                    {bullet}
                   </li>
                 ))}
               </ul>
-            )}
-            {"highlight" in section && section.highlight && (
-              <div className="highlight-card" style={{ marginTop: 12 }}>
-                {"body" in section && section.body && <p>{section.body}</p>}
-              </div>
             )}
           </div>
         );
       })}
 
-      <div className="card">
-        <div className="section-header" style={{ marginBottom: 6 }}>
+      <div className="card" style={{ marginTop: 32 }}>
+        <div className="section-header" style={{ marginBottom: 12 }}>
           <div>
             <h3>Nhớ nhanh</h3>
             <p className="muted">
